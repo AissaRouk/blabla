@@ -1,0 +1,22 @@
+{
+  "name": "4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aboutus.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AissaRouk/blabla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AissaRouk/blabla/issues"
+  },
+  "homepage": "https://github.com/AissaRouk/blabla#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
